@@ -1,0 +1,8 @@
+git add .
+// agarrar todos los cambios del repositorio
+git commit -m "mensaje" 
+//agregar todos los cambios y los guarda en un commit con un mensaje
+git push 
+// sube al repositorio remoto todos los commits con todos los cambios
+git status 
+// el estado del repositorio
